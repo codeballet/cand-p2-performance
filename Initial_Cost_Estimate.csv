@@ -1,0 +1,10 @@
+Item,Number,Monthly cost
+Databases,2,6470.72
+Network Load Balancer,1,29.57
+Application Load Balancer,1,77.75
+Servers (Application & DB),8,574.71
+Servers (Web),4,762.44
+Elastic IP,1,0.4
+S3 bucket,1,175.35
+NAT Gateway,1,37.35
+Total cost,,8128.29
